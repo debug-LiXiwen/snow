@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="nefu.snow.main:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/nefu_snow_main_war</output-path>
+    <root id="archive" name="nefu.snow.main_war.war">
+      <element id="artifact" artifact-name="nefu.snow.main:war exploded" />
+    </root>
+  </artifact>
+</component>
